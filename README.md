@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @aevelynr
-- 👀 I’m interested in ... education technology and learning.
-- 🌱 I’m currently learning ... SQL and practicing Python
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+
 
 <!---
 aevelynr/aevelynr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
